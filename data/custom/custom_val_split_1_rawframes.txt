@@ -1,0 +1,16 @@
+cleaning/cleaning-25 74 0
+cleaning/cleaning-26 74 0
+cleaning/cleaning-27 74 0
+cleaning/cleaning-28 74 0
+cleaning/cleaning-29 74 0
+cleaning/cleaning-30 74 0
+cleaning/cleaning-31 74 0
+cleaning/cleaning-32 74 0
+cooking/cooking-25 74 0
+cooking/cooking-26 74 0
+cooking/cooking-27 74 0
+cooking/cooking-28 74 0
+cooking/cooking-29 74 0
+cooking/cooking-30 74 0
+cooking/cooking-31 74 0
+cooking/cooking-32 74 0

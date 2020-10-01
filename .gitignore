@@ -105,7 +105,7 @@ venv.bak/
 
 # cython generated cpp
 mmaction/version.py
-data
+data/*
 .vscode
 .idea
 
@@ -115,3 +115,6 @@ third_party/opencv_contrib-4.1.0/
 
 # work_dir
 work_dirs/
+
+# Do not ignore custom data
+!data/custom/
